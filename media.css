@@ -22,7 +22,7 @@
     }
     .lead{
         padding-left: 0;
-        padding-right: 0
+        padding-right: 0;
     }
     .lead__caption{
         padding-left: 24px;
@@ -70,13 +70,13 @@
     .lead__subtitle{
         font-size: 16px;
         line-height: 20px;
+        margin-bottom: 40px;
+
     }
     .lead{
         padding-left: 0;
     }
-    .lead__subtitle{
-        margin-bottom: 40px;
-    }
+
     .intro__title{
         max-width: 288px;
         font-size: 32px;
@@ -102,6 +102,8 @@
         font-size: 32px;
         line-height: 35px;
         max-width: 288px;
+        padding-left: 16px;
+        padding-right: 16px;
     }
     .place{
         flex-direction: column;
@@ -110,10 +112,7 @@
         width: 100%;
         padding-left: 0;
     }
-    .place__title{
-        padding-left: 16px;
-        padding-right: 16px;
-    }
+
     .place__left{
         margin-right: 0;
     }
@@ -125,6 +124,7 @@
     .place__website{
         padding-left: 16px;
         padding-right: 16px;
+        margin-top: 32px;
     }
     .cover__title{
         font-size: 32px;
@@ -161,7 +161,5 @@
         display: flex;
         align-self: start;
     }
-    .place__website{
-        margin-top: 32px;
-    }
+
 }
