@@ -1,0 +1,7 @@
+.header__lang-links{
+    align-self: center;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: end;
+}
