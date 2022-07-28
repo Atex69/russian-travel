@@ -9,3 +9,6 @@
     padding-left: 48px;
     margin-bottom: 92px;
 }
+@media screen and (min-width: 768px) {}
+@media screen and (min-width: 1024px) {}
+@media screen and (min-width: 1280px) {}
