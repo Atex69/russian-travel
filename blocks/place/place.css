@@ -1,6 +1,0 @@
-.place{
-    display: grid;
-    margin-bottom: 80px;
-    grid-template-areas: "title website"
-                          "image text" ;
-}

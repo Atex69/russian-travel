@@ -1,6 +1,5 @@
 .lead__image{
-    max-width: 984px;
-    max-height: 1005px;
+    max-width: 100%;
     box-sizing: content-box;
     margin-bottom: 8px;
 }
