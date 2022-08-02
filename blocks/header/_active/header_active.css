@@ -1,4 +1,4 @@
-.header_active{
+.header_active > a{
     text-decoration-line: none;
 
 }
