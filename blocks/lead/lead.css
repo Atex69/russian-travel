@@ -20,7 +20,8 @@
         padding-left: 0px;
     }
 }
-@media screen and (max-width: 768px) {
-
+@media screen and (max-width: 520px) {
+    .lead{
+        margin-bottom: 64px;
+    }
 }
-
