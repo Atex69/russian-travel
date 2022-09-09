@@ -1,4 +1,4 @@
-.footer{
+.footer {
     display: flex;
     max-width: 1184px;
     padding-left: 48px;
@@ -7,14 +7,16 @@
     padding-bottom: 24px;
     box-sizing: content-box;
 }
+
 @media screen and (max-width: 768px) {
-.footer{
-    padding-left: 24px;
-    padding-right: 24px;
+    .footer {
+        padding-left: 24px;
+        padding-right: 24px;
+    }
 }
-}
+
 @media screen and (max-width: 520px) {
-    .footer{
+    .footer {
         padding-left: 16px;
         padding-right: 16px;
         flex-direction: column;

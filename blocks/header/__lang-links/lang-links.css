@@ -1,4 +1,4 @@
-.header__lang-links{
+.header__lang-links {
     display: flex;
     flex-direction: row;
     width: 100%;
@@ -9,11 +9,12 @@
     align-self: flex-end;
 }
 
-.header__lang-links:last-child{
+.header__lang-links:last-child {
     padding-right: 0px;
 
 
 }
-.header__lang-links :hover{
+
+.header__lang-links :hover {
     opacity: 0.8;
 }

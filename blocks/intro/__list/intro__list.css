@@ -1,5 +1,5 @@
 
-.intro__list{
+.intro__list {
     color: #FFFF;
     margin-left: 0;
     padding-left: 0;
@@ -7,13 +7,12 @@
     line-height: 18px;
     font-size: 12px;
     margin-bottom: 92px;
-    margin-top:33px;
+    margin-top: 33px;
 }
 
 
-
 @media screen and (max-width: 768px) {
-    .intro__list{
+    .intro__list {
         margin-bottom: 64px;
     }
 }

@@ -1,25 +1,27 @@
-.cover{
+.cover {
     box-sizing: border-box;
 }
 
 
 @media screen and (max-width: 1024px) {
- .cover{
-     max-width: 100%;
-     min-height: 480px;
-     margin-left: 0;
-     margin-right: 0;
-     margin-bottom: 88px;
- }
+    .cover {
+        max-width: 100%;
+        min-height: 480px;
+        margin-left: 0;
+        margin-right: 0;
+        margin-bottom: 88px;
+    }
 }
+
 @media screen and (max-width: 768px) {
-    .cover{
+    .cover {
         min-height: 480px;
         margin-bottom: 64px;
     }
 }
+
 @media screen and (max-width: 520px) {
-    .cover{
+    .cover {
         min-height: 200px;
     }
 }

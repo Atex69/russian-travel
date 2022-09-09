@@ -1,5 +1,5 @@
 
-.lead{
+.lead {
     padding-right: 148px;
     padding-left: 148px;
     display: flex;
@@ -8,20 +8,23 @@
     margin-bottom: 92px;
 
 }
+
 @media screen and (max-width: 1280px) {
-    .lead{
+    .lead {
         padding-right: 48px;
         padding-left: 48px;
     }
 }
+
 @media screen and (max-width: 1024px) {
-    .lead{
+    .lead {
         padding-right: 0px;
         padding-left: 0px;
     }
 }
+
 @media screen and (max-width: 520px) {
-    .lead{
+    .lead {
         margin-bottom: 64px;
     }
 }
