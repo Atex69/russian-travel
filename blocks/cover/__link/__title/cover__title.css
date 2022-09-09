@@ -11,16 +11,7 @@
     text-align: center;
     text-decoration: none;
 }
-@media screen and (max-width: 768px) {
-    .cover__title{
-        max-width: 560px;
-        padding-top: 33px;
-        font-weight: 900;
-        font-size: 72px;
-        line-height: 76px;
-        padding-bottom: 16px;
-    }
-}
+
 @media screen and (max-width: 520px) {
 .cover__title{
     padding-top: 20px;

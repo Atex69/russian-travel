@@ -1,20 +1,13 @@
 .header__lang-link{
-
+    color: #fff;
     font-weight: 400;
     font-size: 24px;
     line-height: 28px;
-    margin-right: 14px;
+    padding-right: 14px;
+    text-decoration-line: none;
+}
 
-}
-.header__lang-link > a{
-    color: #fff;
-}
-.header__lang-link > a:hover{
-    opacity: 0.8;
-}
-.header__lang-link:last-child{
-    margin-right: 0px;
-}
+
 @media screen and (max-width: 520px) {
     .header__lang-link{
         font-size: 18px;

@@ -9,3 +9,11 @@
     align-self: flex-end;
 }
 
+.header__lang-links:last-child{
+    padding-right: 0px;
+
+
+}
+.header__lang-links :hover{
+    opacity: 0.8;
+}
