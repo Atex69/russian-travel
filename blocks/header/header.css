@@ -1,6 +1,6 @@
 .header{
     padding: 28px 48px 56px 48px;
-
+    padding-bottom: 56px;
     position: relative;
     display: flex;
     margin: 0;
@@ -10,6 +10,8 @@
 @media screen and (max-width: 1024px) {
     .header{
         padding: 28px 46px 54px 48px;
+        padding-bottom: 48px;
+
     }
 }
 @media screen and (max-width: 768px) {
@@ -23,5 +25,6 @@
     .header{
         padding-left: 16px;
         padding-right: 16px;
+        padding-bottom: 48px;
     }
 }

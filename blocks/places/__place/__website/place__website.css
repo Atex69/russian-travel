@@ -1,8 +1,0 @@
-.place__website{
-    grid-area: website;
-    display: flex;
-    flex-direction: column;
-    gap: 12px;
-    justify-content: flex-end;
-    align-items: flex-start;
-}

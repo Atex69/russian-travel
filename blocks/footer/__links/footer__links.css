@@ -3,6 +3,10 @@
     display: flex;
     padding: 0;
     margin: 0;
+    gap: 18px;
+}
+.footer__links:first-child {
+    color: green;
 }
 @media screen and (max-width: 520px) {
  .footer__links{
