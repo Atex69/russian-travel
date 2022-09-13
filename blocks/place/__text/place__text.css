@@ -12,7 +12,11 @@
         padding-right: 48px;
     }
 }
-
+@media (min-width: 1020px) and (max-width: 1299px) {
+.place__text{
+    padding-left: 148px;
+}
+}
 @media screen and (max-width: 760px) {
     .place__text {
         max-width: 352px;
