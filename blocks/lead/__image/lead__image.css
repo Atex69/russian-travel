@@ -8,8 +8,8 @@
 
 @media screen and (max-width: 1024px) {
     .lead__image {
-        max-width: 96vw;
-        height: 580px;
+        max-width: 928px;
+
     }
 }
 
@@ -19,8 +19,3 @@
     }
 }
 
-@media screen and (max-width: 470px) {
-    .lead__image {
-        height: 200px;
-    }
-}
