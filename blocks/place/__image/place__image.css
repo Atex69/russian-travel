@@ -1,22 +1,17 @@
 .place__image {
     max-width: 100%;
     grid-area: image;
-    padding-left: 148px;
-    padding-right: 148px;
 }
 
 @media screen and (max-width: 1024px) {
     .place__image {
         font-size: 72px;
-        padding-left: 48px;
-        padding-right: 48px;
     }
 }
 
 @media screen and (max-width: 768px) {
     .place__image {
         font-size: 42px;
-        padding-right: 20px;
         line-height: 46px;
     }
 }
@@ -24,8 +19,5 @@
 @media screen and (max-width: 520px) {
     .place__image {
 
-
-        padding-left: 0px;
-        padding-right: 0px;
     }
 }
