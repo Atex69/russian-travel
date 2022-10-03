@@ -27,7 +27,11 @@
     }
 
 }
-
+@media (min-width: 521px) and (max-width: 613px) {
+    .place {
+        grid-template-columns: 280px 1fr
+    }
+}
 @media screen and (max-width: 520px) {
     .place {
         grid-template-columns: 100%;
