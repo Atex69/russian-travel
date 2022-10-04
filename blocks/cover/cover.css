@@ -1,7 +1,7 @@
 .cover {
     box-sizing: border-box;
+    max-height: 740px;
 }
-
 
 @media screen and (max-width: 1024px) {
     .cover {
@@ -9,19 +9,19 @@
         min-height: 480px;
         margin-left: 0;
         margin-right: 0;
-
     }
 }
 
 @media screen and (max-width: 768px) {
     .cover {
         min-height: 480px;
-
+        margin-bottom: 88px;
     }
 }
 
 @media screen and (max-width: 520px) {
     .cover {
         min-height: 200px;
+        margin-bottom: 64px;
     }
 }

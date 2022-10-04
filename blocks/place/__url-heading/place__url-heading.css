@@ -2,8 +2,20 @@
     margin: 0;
     font-weight: 400;
     font-size: 12px;
-    line-height: 12px;
+    line-height: 30px;
     color: #AAAAAA;
     text-transform: uppercase;
     letter-spacing: 2px;
+}
+
+@media screen and (max-width: 768px) {
+    .place__url-heading {
+        line-height: 8px;
+    }
+}
+
+@media screen and (max-width: 420px) {
+    .place__url-heading {
+        line-height: 18px;
+    }
 }

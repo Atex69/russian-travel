@@ -5,14 +5,13 @@
     justify-content: end;
     margin: 0;
     padding: 0;
+    gap: 18px;
     list-style-type: none;
     align-self: flex-end;
 }
 
 .header__lang-links:last-child {
     padding-right: 0px;
-
-
 }
 
 .header__lang-links :hover {

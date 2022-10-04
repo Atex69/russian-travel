@@ -1,4 +1,3 @@
-
 .intro__list {
     color: #FFFF;
     margin-left: 0;
@@ -10,9 +9,15 @@
     margin-top: 33px;
 }
 
-
 @media screen and (max-width: 768px) {
     .intro__list {
-        margin-bottom: 64px;
+        margin-bottom: 86px;
+    }
+}
+
+@media screen and (max-width: 420px) {
+    .intro__list {
+        line-height: 19px;
+        margin-bottom: 62px;
     }
 }
