@@ -11,6 +11,13 @@
     }
 }
 
+@media (min-width: 521px) and (max-width: 759px) {
+    .place__text {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+}
+
 @media screen and (max-width: 520px) {
     .place__text {
         padding-left: 16px;
