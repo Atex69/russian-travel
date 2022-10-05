@@ -48,13 +48,16 @@
         min-height: 430px;
         padding-bottom: 16px;
         padding-top: 33px;
-
+        gap: 24px;
     }
 }
 
 @media screen and (max-width: 520px) {
     .cover__link {
         min-height: 200px;
-        margin-bottom: 64px;
+        margin-bottom: 0px;
+        padding-bottom: 0px;
+        padding-top: 0px;
+        gap: 0px;
     }
 }
